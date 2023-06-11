@@ -61,7 +61,7 @@ header h1 {
 }
 
 .task i.active{
-  color: red;
+  color: rgb(166, 11, 11);
 }
 
 /* filter nav */
