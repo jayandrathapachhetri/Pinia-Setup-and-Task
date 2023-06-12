@@ -121,3 +121,13 @@ form input {
   text-align: center;
   margin: 30px auto;
 }
+
+.btn{
+  background-color: #ffd859;
+  display: inline-block;
+  margin-left: 680px;
+  border: 2px solid #555;
+  border-radius: 4px;
+  padding: 4px 8px;
+
+}

@@ -63,7 +63,7 @@ export const useTaskStore = defineStore('taskStore', {
       const task = this.tasks.find(t => t.id === id)
       task.isFav = !task.isFav
 
-      const res = await fetch('http://localhost:3000/task/' + id, {
+      const res = await fetch('http: //localhost:3000/task/' + id, {
         method: 'PATCH',
         body: JSON.stringify({ isFav: task.isFav }),
         headers: {'Content-Type': 'application/json'}

@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "buy some milk",
-      "isFav": false
+      "isFav": true
     },
     {
       "id": 2,
@@ -14,11 +14,6 @@
       "title": "play Gloomhaven",
       "isFav": true,
       "id": 3
-    },
-    {
-      "title": "Let's Run it",
-      "isFav": true,
-      "id": 299611
     }
   ]
 }
